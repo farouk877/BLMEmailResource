@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2be68ca2b41032858e400ca804c706e4",
+    "revision": "d9636289fdfe616cb0e18d04d2e26abb",
     "url": "/blmemailresource/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blmemailresource/static/css/2.4deadad5.chunk.css"
   },
   {
-    "revision": "613c172c1a50f2980edb",
+    "revision": "c085964bbbdc386f9f8e",
     "url": "/blmemailresource/static/css/main.94736654.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blmemailresource/static/js/2.72bbadc9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "613c172c1a50f2980edb",
-    "url": "/blmemailresource/static/js/main.877ab16c.chunk.js"
+    "revision": "c085964bbbdc386f9f8e",
+    "url": "/blmemailresource/static/js/main.cce120d1.chunk.js"
   },
   {
     "revision": "195391d890a630a22881",
