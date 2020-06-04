@@ -1,5 +1,56 @@
+@import '~antd/dist/antd.css';
+
+body {
+  background-color: #f7dda3;
+  /* background-image: radial-gradient(circle, #e1f1fc 0%, #c5d4de 70%, #b6c3cc 100%); */
+  background-image: radial-gradient(circle, #ffedcf 0%, #f7dda3 70%, #f7dda3 100%);
+}
+
+#creditsDiv {
+  display: block;
+}
+
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.parentContainer {
+  width:300px;
+  margin-top: 50px;
+}
+
+.emailButtonDiv {
+  padding-top:10px;
+  padding-bottom: 10px;
+}
+
+.creditsSection {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#creditButton {
+  cursor: pointer;
+}
+
+
+#creditMessage {
+  display: none;
+  padding:20px;
+}
+
+
+.bottomIcons {
+  font-size:17.5px;
+  color:black;
+}
+
+.contact {
+  margin-top: 10px;
 }
 
 .App-logo {
