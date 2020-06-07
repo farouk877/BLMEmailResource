@@ -336,7 +336,7 @@ class App extends Component {
                       this with your friends!<br/>
                     </Text>
 
-                    <Text copyable={{text: 'https://www.bitly.com/blmemails'}} style={{fontSize:17.5}}>
+                    <Text copyable={{text: 'https://newunitedrepublic.org/'}} style={{fontSize:17.5}}>
                       Click icon to copy our link ->
                     </Text>
                     
