@@ -371,7 +371,7 @@ class App extends Component {
                     </div>
 
                     <div className="emailButtonDiv">
-                      <a href="https://bit.ly/blmcampzeroemailb">
+                      <a href="https://bit.ly/blmcampzeroemail2">
                         <Button type="primary" shape="round" icon={<MailOutlined />} size="medium">
                             Email
                         </Button>
@@ -393,7 +393,7 @@ class App extends Component {
                     </div>
 
                     <div className="emailButtonDiv">
-                      <a href="https://bit.ly/blmnaacpemail">
+                      <a href="https://bit.ly/blmnaacpemail2">
                         <Button type="primary" shape="round" icon={<MailOutlined />} size="medium">
                             Email
                         </Button>
@@ -705,6 +705,11 @@ class App extends Component {
               <Panel header={<Title level={4} keyboard><ReadOutlined /> Reading Materials</Title>} key="8" showArrow={false}>
                 <div id="">
                   <Collapse>
+                      <Panel header="Police Brutality Videos Database">
+                        <div className="petitionLinks">
+                          <Text keyboard><a href="https://drive.google.com/drive/mobile/folders/1zniqs5KlQJffey_FOHDlb-Ghy0Hikl_w?usp=drive_open" target="_blank" rel="noopener noreferrer">Police Brutality Videos (Google Drive)</a><br/></Text>
+                        </div>
+                      </Panel>
                       <Panel header="Assorted political writings by intellectuals from marginalized communities">
                         <div className="petitionLinks">
                           <Text keyboard><a href="https://drive.google.com/drive/u/0/folders/1gbng08qtlLlKu9KSH5w4UnDWi4LMCH5k" target="_blank" rel="noopener noreferrer">Assorted Collection</a><br/></Text>
@@ -735,6 +740,11 @@ class App extends Component {
                         </div>
                         <div className="petitionLinks">
                           <Text keyboard><a href="http://www.naacp.org/issues/criminal-justice/" target="_blank" rel="noopener noreferrer">Criminal Justice Advocacy Updates </a><br/></Text>
+                        </div>
+                      </Panel>
+                      <Panel header="Protesting Info">
+                        <div className="petitionLinks">
+                          <Text keyboard><a href="https://static1.squarespace.com/static/59134566e58c623970f2cd48/t/5ed7d8bd639beb1c9d8e8aae/1591204036042/2020-6-3_Infiltration+Disinfo+Info+Sheets_M4BL+CLEAR_FINAL.pdf" target="_blank" rel="noopener noreferrer">Infiltration at Protests and Online Misinformation</a><br/></Text>
                         </div>
                       </Panel>
                   </Collapse>
